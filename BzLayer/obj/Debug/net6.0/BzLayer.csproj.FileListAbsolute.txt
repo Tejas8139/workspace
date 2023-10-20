@@ -1,0 +1,5 @@
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.csproj.AssemblyReference.cache
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.AssemblyInfoInputs.cache
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.AssemblyInfo.cs
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.csproj.CoreCompileInputs.cache
